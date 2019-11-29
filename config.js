@@ -1,6 +1,6 @@
 ﻿var config = {
     //网页标题
-    title:'好省 邀请口令:D2D3A2EE',
+    title:'好省 边购物边赚高额佣金',
     //项目名称
     name:'好省',
 
